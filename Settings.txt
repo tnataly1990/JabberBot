@@ -1,0 +1,7 @@
+DBConnectionString = jdbc:mysql://192.168.0.5:3306/bot
+DBLogin = user
+DBPassword = 1234
+JabberServerAddress = 192.168.0.5
+JabberServerPort = 5222
+JabberServerLogin = bot
+JabberServerPassword = 1234
